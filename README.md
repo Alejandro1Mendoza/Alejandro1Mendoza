@@ -1,4 +1,17 @@
-<a href="https://github.com/Alejandro1Mendoza"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC4C4&center=true&vCenter=true&multiline=true&width=435&height=59&lines=%F0%9F%8D%82%C2%A1Mucho+gusto!%F0%9F%8D%82;%F0%9F%8C%BA%F0%9F%8C%BB%F0%9F%8C%BC%F0%9F%8C%B7%F0%9F%8C%B1%F0%9F%8C%B7%F0%9F%8C%BC%F0%9F%8C%BB%F0%9F%8C%BA" alt="Typing SVG" /></a>
+<p align="center">
+
+<a href="https://github.com/Alejandro1Mendoza"><img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Bienvenido&section=header&reversal=false&textBg=false&fontSize=42&animation=scaleIn&fontAlignY=21&descAlignY=100&descAlign=100"/></a>
+  
+</p>
+
+
+
+
+<p align="center">
+
+<a href="https://github.com/Alejandro1Mendoza"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%8C%BC%F0%9F%8C%BC%F0%9F%8C%BB%F0%9F%8C%BB%F0%9F%8C%B7%F0%9F%8C%B7%F0%9F%8C%B9%F0%9F%8C%B9%F0%9F%8C%B9%F0%9F%8C%B9%F0%9F%8C%B7%F0%9F%8C%B7%F0%9F%8C%BB%F0%9F%8C%BB%F0%9F%8C%BC%F0%9F%8C%BC" alt="Typing SVG" /></a>
+  
+</p>
 
 ----
 
