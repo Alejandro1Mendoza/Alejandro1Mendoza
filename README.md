@@ -1,18 +1,10 @@
-h4 {
-   height: 10vh;
-   text-shadow:2px 2px 4px #FFF, 4px 4px 4px #111,
-   6px 6px 4px #222;
-}
-
-
 <!--- stats & Trophy (start) -->
 <p align="center">
 <a href="https://github.com/Alejandro1Mendoza"><img href="https://github.com/Alejandro1Mendoza" align="center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20Dev's%20💻&section=header&reversal=false&textBg=true&fontSize=44&animation=scaleIn&fontAlignY=43&descAlignY=62&descAlign=0&descSize=14&desc=🍂🍂🍂🍂🍂🍂🍂🍂&fontAlign=50"/>
 
 ----
-<p>
+<p style="color:DodgerBlue;">
 
-<h4>
   
 ```html
 👋🏼 ¡Hola! Soy Alejandro Madero
@@ -26,8 +18,6 @@ h4 {
 ✨ Siempre listo para nuevos retos y oportunidades de crecimiento.
 ```
 </p>
-
-</h4>
 
 ----
   <!--- stats (start) -->
