@@ -7,6 +7,7 @@
 
 ----
 
+----
   <!--- stats (start) -->
 <table align="center">
 <tr border="center">
