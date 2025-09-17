@@ -3,7 +3,7 @@
   
 ----
 
-<p style="color:DodgerBlue;">
+<p>
   
 ```html
 # 👋🏼 Hey, soy Alejandro Madero  
