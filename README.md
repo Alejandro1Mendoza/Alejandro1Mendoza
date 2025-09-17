@@ -2,10 +2,11 @@
 <a href="https://github.com/Alejandro1Mendoza"><img href="https://github.com/Alejandro1Mendoza" align="center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20Dev's%20💻&section=header&reversal=false&textBg=true&fontSize=44&animation=scaleIn&fontAlignY=43&descAlignY=62&descAlign=0&descSize=14&desc=🍂🍂🍂🍂🍂🍂🍂🍂&fontAlign=50"/>
   
 ----
+
 <p style="color:DodgerBlue;">
   
 ```html
-# 👋 Hey, soy Alejandro Madero  
+# 👋🏼 Hey, soy Alejandro Madero  
 
 💻 Developer en proceso & explorador del mundo tech  
 🚀 Aprendiendo día a día nuevas formas de crear cosas increíbles  
