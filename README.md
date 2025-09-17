@@ -5,15 +5,17 @@
 <p style="color:DodgerBlue;">
   
 ```html
-👋🏼 ¡Hola! Soy Alejandro Madero
+# 👋 Hey, soy Alejandro Madero  
 
-💻 Apasionado por el desarrollo de software y siempre en busca de aprender nuevas tecnologías.  
-📚 Actualmente estoy estudiando Ingeniería en Desarrollo de Software.
-🔧 Con conocimientos en HTML, CSS y Excel.  
-🚀 Interesado en el análisis de datos, la transformación digital y la innovación tecnológica.  
-🌱 Me gusta seguir mejorando cada día con cursos y proyectos personales.  
-
-✨ Siempre listo para nuevos retos y oportunidades de crecimiento.
+💻 Developer en proceso & explorador del mundo tech  
+🚀 Aprendiendo día a día nuevas formas de crear cosas increíbles  
+🎓 Estudiante de Ingeniería en Desarrollo de Software
+📊 Me llevo bien con HTML, CSS, y Excel
+🤖 Fan de la IA, la innovación y la transformación digital  
+🎧 Codifico mejor con música de fondo  
+☕ El café es mi mejor compañero de proyectos  
+🐶 Me encantan los perros que juegan y no muerden
+✨ Siempre con ganas de aprender, compartir y construir 🚀  
 ```
 </p>
 
