@@ -15,6 +15,7 @@
 🎧 Codifico mejor con música de fondo  
 ☕ El café es mi mejor compañero de proyectos  
 🐶 Me encantan los perros que juegan y no muerden
+
 ✨ Siempre con ganas de aprender, compartir y construir 🚀  
 ```
 </p>
