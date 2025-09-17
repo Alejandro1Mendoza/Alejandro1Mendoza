@@ -1,3 +1,8 @@
+h4 {
+   height: 10vh;
+   text-shadow:2px 2px 4px #FFF, 4px 4px 4px #111,
+   6px 6px 4px #222;
+}
 
 
 <!--- stats & Trophy (start) -->
@@ -7,19 +12,22 @@
 ----
 <p>
 
+<h4>
+  
 ```html
 👋🏼 ¡Hola! Soy Alejandro Madero
 
-💻 Apasionado por el **desarrollo de software** y siempre en busca de aprender nuevas tecnologías.  
-📚 Actualmente estudiando **Ingeniería en Desarrollo de Software**.  
-🔧 Con conocimientos en **HTML, CSS, SQL y Excel**.  
-🚀 Interesado en el **análisis de datos**, la **transformación digital** y la **innovación tecnológica**.  
+💻 Apasionado por el desarrollo de software y siempre en busca de aprender nuevas tecnologías.  
+📚 Actualmente estoy estudiando Ingeniería en Desarrollo de Software.
+🔧 Con conocimientos en HTML, CSS y Excel.  
+🚀 Interesado en el análisis de datos, la transformación digital y la innovación tecnológica.  
 🌱 Me gusta seguir mejorando cada día con cursos y proyectos personales.  
 
-✨ *Siempre listo para nuevos retos y oportunidades de crecimiento.*
+✨ Siempre listo para nuevos retos y oportunidades de crecimiento.
 ```
 </p>
 
+</h4>
 
 ----
   <!--- stats (start) -->
