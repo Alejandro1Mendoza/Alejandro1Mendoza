@@ -5,6 +5,21 @@
 <a href="https://github.com/Alejandro1Mendoza"><img href="https://github.com/Alejandro1Mendoza" align="center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20Dev's%20💻&section=header&reversal=false&textBg=true&fontSize=44&animation=scaleIn&fontAlignY=43&descAlignY=62&descAlign=0&descSize=14&desc=🍂🍂🍂🍂🍂🍂🍂🍂&fontAlign=50"/>
 
 ----
+<p>
+
+```html
+👋🏼 ¡Hola! Soy Alejandro Madero
+
+💻 Apasionado por el **desarrollo de software** y siempre en busca de aprender nuevas tecnologías.  
+📚 Actualmente estudiando **Ingeniería en Desarrollo de Software**.  
+🔧 Con conocimientos en **HTML, CSS, SQL y Excel**.  
+🚀 Interesado en el **análisis de datos**, la **transformación digital** y la **innovación tecnológica**.  
+🌱 Me gusta seguir mejorando cada día con cursos y proyectos personales.  
+
+✨ *Siempre listo para nuevos retos y oportunidades de crecimiento.*
+```
+</p>
+
 
 ----
   <!--- stats (start) -->
