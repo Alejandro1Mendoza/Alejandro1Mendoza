@@ -9,7 +9,7 @@
 
 <div align="center">
  
-```html
+
 💻 Developer en proceso & explorador del mundo tech  
 🚀 Aprendiendo día a día nuevas formas de crear cosas increíbles  
 🎓 Estudiante de Ingeniería en Desarrollo de Software
@@ -20,7 +20,7 @@
 🐶 Me encantan los perros que juegan y no muerden
 
 ✨ Siempre con ganas de aprender, compartir y construir 🚀  
-``` 
+
 </div> 
 
 ----
