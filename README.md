@@ -59,6 +59,32 @@
 
 ----
 
+<!---Repositorios
+<div align="center">
+<table style="border: none">
+<tr>
+<td width="50%" valign="top">
+
+<h2>Primer Proyecto</h2>
+Texto descriptivo primer proyecto
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alejandro1Mendoza&repo=Alejandro1Mendoza)
+
+</td>
+<td width="50%" valign="top">
+<h2>Segundo Proyecto</h2>
+Texto descriptivo Segundo proyecto
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alejandro1Mendoza&repo=Alejandro1Mendoza)
+
+</td>
+</tr>
+
+</table>
+</div> 
+
+----
+--->
 <!---Pie de Pagina-->
 <div align="center">
  
@@ -67,4 +93,3 @@
 </div>
 
 ----
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alejandro1Mendoza&repo=Alejandro1Mendoza)
