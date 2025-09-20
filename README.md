@@ -2,10 +2,7 @@
 <div align="center">
 <a href="https://github.com/Alejandro1Mendoza"><img href="https://github.com/Alejandro1Mendoza" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Hello%20Dev's%20💻&section=header&reversal=false&textBg=true&fontSize=44&animation=scaleIn&fontAlignY=43&descAlignY=62&descAlign=0&descSize=14&desc=🍂🍂🍂🍂🍂🍂🍂🍂&fontAlign=50"/>
 </div> 
-
-----
 <!---Acerca de mi-->
-
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Alejandro Madero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
@@ -17,7 +14,6 @@
 <p> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBuODNoN3ZoeWhoa2o0eHRvdHViOWxsYXhsaXBqMjgzazA4dm43NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YOW2PgBY6h9qirr70t/giphy.gif" width="35"> Fan de la IA, la innovación y la transformación digital <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBuODNoN3ZoeWhoa2o0eHRvdHViOWxsYXhsaXBqMjgzazA4dm43NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YOW2PgBY6h9qirr70t/giphy.gif" width="35"></p>
 <p> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp4NWVocW5sOWU1ZTY0MWkzMTBiNTZwYnh5anpqOGZzbm9veXA3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YjHOvLaZ02jI8C3yvH/giphy.gif" width="35"> Codifico mejor con música de fondo <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp4NWVocW5sOWU1ZTY0MWkzMTBiNTZwYnh5anpqOGZzbm9veXA3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YjHOvLaZ02jI8C3yvH/giphy.gif" width="35"></p>
 <p> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJicGlrOGY3OGJtYjR1OWUyMmxjc216djNrYTU5ZHl3czV2NmhnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KazYtoXQkYy6BlkOwG/giphy.gif" width="35"> El café es mi mejor compañero de proyectos <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJicGlrOGY3OGJtYjR1OWUyMmxjc216djNrYTU5ZHl3czV2NmhnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KazYtoXQkYy6BlkOwG/giphy.gif" width="35"></p>
-<p> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VzaTN6enk4b3Brcjd6cjhpYzh1OHdoOW0xdXlxeWs5cXA4MzVrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pPVKIi2TOeCDJwLcT1/giphy.gif" width="35"> Me encantan los perros que juegan y no muerden <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VzaTN6enk4b3Brcjd6cjhpYzh1OHdoOW0xdXlxeWs5cXA4MzVrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pPVKIi2TOeCDJwLcT1/giphy.gif" width="35"></p>
 <p> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFva3JmMW52cW9weWd3OTJ2a3Njb21xdzd4d2EyeTdycHFpajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDIGZBIBtbKw2VUIS/giphy.gif" width="35"> Siempre con ganas de aprender, compartir y construir <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFva3JmMW52cW9weWd3OTJ2a3Njb21xdzd4d2EyeTdycHFpajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDIGZBIBtbKw2VUIS/giphy.gif" width="35"></p>
 
 </div> 
