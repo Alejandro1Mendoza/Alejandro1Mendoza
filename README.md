@@ -8,7 +8,7 @@
  <h1 align="center">Soy Alejandro Madero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p>
  
-  ```html
+```html
 💻 Developer en proceso & explorador del mundo tech  
 🚀 Aprendiendo día a día nuevas formas de crear cosas increíbles  
 🎓 Estudiante de Ingeniería en Desarrollo de Software
