@@ -48,14 +48,21 @@
   </td>
 </tr>
 </table>
+</div> 
 
+----
+
+<!---Mis Tecnologías-->
+<h2 align="center">Tecnologías</h2>
+<div align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css&perline=25" align="center"/>
 </div> 
 
 ----
 
 <!---Pie de Pagina-->
 <div align="center">
-  
+ 
 <a href="https://github.com/Alejandro1Mendoza"><img href="https://github.com/Alejandro1Mendoza" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=🐟🐠🐡🐠🐡🐟🐡&section=footer&reversal=false&textBg=false&fontSize=12&animation=scaleIn&fontAlignY=52&descAlignY=84&descAlign=77&descSize=12&desc=🐟🐠🐡🐠🐡🐟🐡&fontAlign=20"/>
 
 </div>
