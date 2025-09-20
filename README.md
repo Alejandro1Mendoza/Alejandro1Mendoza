@@ -53,9 +53,9 @@
 ----
 
 <!---Mis Tecnologías-->
-<h2 align="center">Tecnologías</h2>
+<h2 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BhMW9ocGRpaWRnMmc0bzdlcHp0dDR0OHl5bXZ6Z25vc2oyMHhneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9LwSYQz5jGpOyYr163/giphy.gif" width="45"> Tecnologías <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BhMW9ocGRpaWRnMmc0bzdlcHp0dDR0OHl5bXZ6Z25vc2oyMHhneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9LwSYQz5jGpOyYr163/giphy.gif" width="45"></h2>
 <div align="center">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css&perline=25" align="center"/>
+<a href="https://github.com/Alejandro1Mendoza"><img src="https://skillicons.dev/icons?i=html,css&perline=25" align="center"/>
 </div> 
 
 ----
