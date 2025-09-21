@@ -22,6 +22,14 @@
 <p> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFva3JmMW52cW9weWd3OTJ2a3Njb21xdzd4d2EyeTdycHFpajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDIGZBIBtbKw2VUIS/giphy.gif" width="35"> Siempre con ganas de aprender, compartir y construir <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFva3JmMW52cW9weWd3OTJ2a3Njb21xdzd4d2EyeTdycHFpajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDIGZBIBtbKw2VUIS/giphy.gif" width="35"></p>
 
 </div>
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rmvvsejgpo7y76yh25elxfcu5q&count=1&unique=true" alt="Spotify recently played"/>
+  </a>
+</div>
  
 ----
 
