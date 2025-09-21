@@ -1,12 +1,12 @@
 <!---Encabezado-->
 <div align="center">
-<a href="https://github.com/Alejandro1Mendoza"><img href="https://github.com/Alejandro1Mendoza" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Hello%20Dev's%20💻&section=header&reversal=false&textBg=true&fontSize=44&animation=scaleIn&fontAlignY=43&descAlignY=62&descAlign=0&descSize=14&desc=🍂🍂🍂🍂🍂🍂🍂🍂&fontAlign=50"/>
+<a href="https://github.com/Alejandro1Mendoza"><img href="https://github.com/Alejandro1Mendoza" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Hello%20Dev's%20💻&section=header&reversal=false&textBg=true&fontSize=35&animation=scaleIn&fontAlignY=43&descAlignY=62&descAlign=0&descSize=14&desc=🍂🍂🍂🍂🍂🍂🍂🍂&fontAlign=50"/>
  
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Alejandro1Mendoza-badge&left_color=black&right_color=orange&left_text=Visitantes)
+
 </div> 
 <!---Acerca de mi-->
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Alejandro Madero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+<h1 align="center">Soy Alejandro Madero <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQ0NzVzaWZuMTl3NDBsN2Y2NjRuYjIzd3lseDE0eXNmMjM4ZGh4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vtty3pr6C0sWKUdlQn/giphy.gif" width="35"></h1> 
 
 <div align="center">
 
@@ -124,5 +124,6 @@ Tecnologias a usar
 <div align="center">
  
 <a href="https://github.com/Alejandro1Mendoza"><img href="https://github.com/Alejandro1Mendoza" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=🐟🐠🐡🐠🐡🐟🐡&section=footer&reversal=false&textBg=false&fontSize=12&animation=scaleIn&fontAlignY=52&descAlignY=84&descAlign=77&descSize=12&desc=🐟🐠🐡🐠🐡🐟🐡&fontAlign=20"/>
+
 
 </div>
