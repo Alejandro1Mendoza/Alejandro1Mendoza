@@ -10,8 +10,12 @@
 
 <div align="center">
 
-<p> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV0a25yZHNmZGJya2k2cWE3cXJxdHZncXhpZnViNDVnaXlndWhraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="35"> Developer en proceso & explorador del mundo tech<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV0a25yZHNmZGJya2k2cWE3cXJxdHZncXhpZnViNDVnaXlndWhraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="35"></p>
-<p> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmEzbjE0Y3pnbGFzb2htN29lcjV6Znc2c25sMHd4ZW4wY3BxZnl1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AMVwM7RhQGxbBFKAa7/giphy.gif" width="35"> Aprendiendo día a día nuevas formas de crear cosas increíbles <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmEzbjE0Y3pnbGFzb2htN29lcjV6Znc2c25sMHd4ZW4wY3BxZnl1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AMVwM7RhQGxbBFKAa7/giphy.gif" width="35"></p>
+<a href="https://app.daily.dev/alejandromadero">
+<img src="https://api.daily.dev/devcards/v2/pfSngcXnFWLUfEpyNcOQi.png?type=default&r=xj6" width="325" alt="Alejandro Madero's Dev Card" align="right"/>
+</a>
+
+<p> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV0a25yZHNmZGJya2k2cWE3cXJxdHZncXhpZnViNDVnaXlndWhraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="35">Developer en proceso, explorador del mundo tech<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV0a25yZHNmZGJya2k2cWE3cXJxdHZncXhpZnViNDVnaXlndWhraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="35"></p>
+<p> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmEzbjE0Y3pnbGFzb2htN29lcjV6Znc2c25sMHd4ZW4wY3BxZnl1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AMVwM7RhQGxbBFKAa7/giphy.gif" width="35">Día a día aprendiendo formas de crear cosas increíbles<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmEzbjE0Y3pnbGFzb2htN29lcjV6Znc2c25sMHd4ZW4wY3BxZnl1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AMVwM7RhQGxbBFKAa7/giphy.gif" width="35"></p>
 <p> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmk5azNiNm81NHo4eGIydTZjdXdpNTY5bHU0ODVnMnhmYndkODlreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TI4QmEIhk5loq7Qdsf/giphy.gif" width="35"> Estudiante de Ingeniería en Desarrollo de Software <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmk5azNiNm81NHo4eGIydTZjdXdpNTY5bHU0ODVnMnhmYndkODlreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TI4QmEIhk5loq7Qdsf/giphy.gif" width="35"></p>
 <p> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjduY2hiZThjN24zMnkzejFkeG1nZmM5bXBlZ3I3eDBkYWZnYjZxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yzcdWekopUM9HiOf27/giphy.gif" width="35"> Me llevo bien con HTML, CSS, y Excel <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjduY2hiZThjN24zMnkzejFkeG1nZmM5bXBlZ3I3eDBkYWZnYjZxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yzcdWekopUM9HiOf27/giphy.gif" width="35"></p>
 <p> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBuODNoN3ZoeWhoa2o0eHRvdHViOWxsYXhsaXBqMjgzazA4dm43NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YOW2PgBY6h9qirr70t/giphy.gif" width="35"> Fan de la IA, la innovación y la transformación digital <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBuODNoN3ZoeWhoa2o0eHRvdHViOWxsYXhsaXBqMjgzazA4dm43NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YOW2PgBY6h9qirr70t/giphy.gif" width="35"></p>
@@ -19,8 +23,8 @@
 <p> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJicGlrOGY3OGJtYjR1OWUyMmxjc216djNrYTU5ZHl3czV2NmhnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KazYtoXQkYy6BlkOwG/giphy.gif" width="35"> El café es mi mejor compañero de proyectos <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJicGlrOGY3OGJtYjR1OWUyMmxjc216djNrYTU5ZHl3czV2NmhnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KazYtoXQkYy6BlkOwG/giphy.gif" width="35"></p>
 <p> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFva3JmMW52cW9weWd3OTJ2a3Njb21xdzd4d2EyeTdycHFpajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDIGZBIBtbKw2VUIS/giphy.gif" width="35"> Siempre con ganas de aprender, compartir y construir <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFva3JmMW52cW9weWd3OTJ2a3Njb21xdzd4d2EyeTdycHFpajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDIGZBIBtbKw2VUIS/giphy.gif" width="35"></p>
 
-</div> 
-
+</div>
+ 
 ----
 
 <!---Inician las estadisticas-->
