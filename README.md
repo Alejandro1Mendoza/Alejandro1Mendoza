@@ -10,6 +10,7 @@
 
 <div align="center">
 
+<a href="https://app.daily.dev/alejandromadero"><img src="https://api.daily.dev/devcards/v2/pfSngcXnFWLUfEpyNcOQi.png?type=default&r=pm9" width="300" alt="Alejandro Madero's Dev Card" align="right"/></a>
 
 
 <p> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV0a25yZHNmZGJya2k2cWE3cXJxdHZncXhpZnViNDVnaXlndWhraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="35">Developer en proceso, explorador del mundo tech<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV0a25yZHNmZGJya2k2cWE3cXJxdHZncXhpZnViNDVnaXlndWhraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="35"></p>
