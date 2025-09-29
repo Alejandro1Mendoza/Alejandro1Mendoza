@@ -72,12 +72,12 @@
 <td width="50%" valign="top">
 
 <h2>Simulación y análisis de señales con la transformada de Fourier</h2>
-<p>📡 Procesamiento de señales con Fourier 📊</p>
-<p>Script educativo en Python que muestra procesamiento de señales, cómo transformar una señal del dominio temporal al espectral usando FFT, detectando automáticamente las frecuencias principales.</p>
+<p align="center">📡 Procesamiento de señales con Fourier 📊</p>
+<p align="center">Script educativo en Python que muestra procesamiento de señales, cómo transformar una señal del dominio temporal al espectral usando FFT, detectando automáticamente las frecuencias principales.</p>
 <p align="center">Tecnologias a usar</p>
 <p style="display: inline-block;" align="center">
   <kbd>
-    <kbd ><code>Backend / DataAnalist</code></kbd>
+    <kbd align="center"><code>Backend / DataAnalist</code></kbd>
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=python&perline=25" align="center"/> 
@@ -90,7 +90,8 @@
 
 </div>
 </td>
-<!---Tabla
+
+<!---
 <td width="50%" valign="top">
 <h2>Segundo Proyecto</h2>
 <p>Texto descriptivo Segundo proyecto</p>
@@ -104,11 +105,14 @@ Tecnologias a usar
     <img src="https://skillicons.dev/icons?i=css&perline=25" align="center"/>
   </kbd>
 </p>
+<div align="center">
+ 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alejandro1Mendoza&repo=Alejandro1Mendoza)
+
+</div>
 </td>
 </tr>
 --->
-
 </table>
 </div> 
 
