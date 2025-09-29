@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<a href="https://app.daily.dev/alejandromadero"><img src="https://api.daily.dev/devcards/v2/pfSngcXnFWLUfEpyNcOQi.png?type=default&r=1la" width="300" alt="Alejandro Madero's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/alejandromadero"><img src="https://api.daily.dev/devcards/v2/pfSngcXnFWLUfEpyNcOQi.png?type=default&r=bf8" width="300" alt="Alejandro Madero's Dev Card" align="right"/></a>
 
 <p> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV0a25yZHNmZGJya2k2cWE3cXJxdHZncXhpZnViNDVnaXlndWhraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="35">Developer en proceso, explorador del mundo tech<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV0a25yZHNmZGJya2k2cWE3cXJxdHZncXhpZnViNDVnaXlndWhraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="35"></p>
 <p> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmEzbjE0Y3pnbGFzb2htN29lcjV6Znc2c25sMHd4ZW4wY3BxZnl1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AMVwM7RhQGxbBFKAa7/giphy.gif" width="35">Día a día aprendiendo formas de crear cosas increíbles<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmEzbjE0Y3pnbGFzb2htN29lcjV6Znc2c25sMHd4ZW4wY3BxZnl1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AMVwM7RhQGxbBFKAa7/giphy.gif" width="35"></p>
@@ -60,7 +60,6 @@
 
 ----
 
-<!---Mis Repositorios---
 <div align="center">
 <h2 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BhMW9ocGRpaWRnMmc0bzdlcHp0dDR0OHl5bXZ6Z25vc2oyMHhneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9LwSYQz5jGpOyYr163/giphy.gif" width="45"> Repositorios <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BhMW9ocGRpaWRnMmc0bzdlcHp0dDR0OHl5bXZ6Z25vc2oyMHhneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9LwSYQz5jGpOyYr163/giphy.gif" width="45"></h2>
 
@@ -72,27 +71,29 @@
 <tr>
 <td width="50%" valign="top">
 
-<h2>Primer Proyecto</h2>
-<p>Texto descriptivo primer proyecto</p>
-
-Tecnologias a usar
+<h2>Simulación y análisis de señales con la transformada de Fourier</h2>
+<p>📡 Procesamiento de señales con Fourier 📊</p>
+<p>Script educativo en Python que muestra cómo transformar una señal del dominio temporal al espectral usando FFT, detectando automáticamente las frecuencias principales.</p>
+<p align="center">Tecnologias a usar</p>
 <p style="display: inline-block;" align="center">
   <kbd>
-    <kbd><code>Front-end</code></kbd>
+    <kbd ><code>Backend / DataAnalist</code></kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=html&perline=25" align="center"/> 
-    <img src="https://skillicons.dev/icons?i=css&perline=25" align="center"/>
+    <img src="https://skillicons.dev/icons?i=python&perline=25" align="center"/> 
   </kbd>
 </p>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alejandro1Mendoza&repo=Alejandro1Mendoza)
+<div align="center">
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alejandro1Mendoza&repo=Act2_Se-ales_y_Sistemas_UCNL)
+
+</div>
 </td>
+<!---Tabla
 <td width="50%" valign="top">
 <h2>Segundo Proyecto</h2>
 <p>Texto descriptivo Segundo proyecto</p>
- 
 Tecnologias a usar
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -103,17 +104,16 @@ Tecnologias a usar
     <img src="https://skillicons.dev/icons?i=css&perline=25" align="center"/>
   </kbd>
 </p>
-
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alejandro1Mendoza&repo=Alejandro1Mendoza)
-
 </td>
 </tr>
+--->
 
 </table>
 </div> 
 
 ----
---->
+
 
 <div align="center">
 <h2>🏆 Trofeos GitHub</h2>
