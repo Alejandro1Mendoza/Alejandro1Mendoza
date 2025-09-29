@@ -77,17 +77,21 @@
 <p align="center">Tecnologias usadas:</p>
 <p style="display: inline-block;" align="center">
   <kbd>
+   <a href="https://github.com/Alejandro1Mendoza/Act2_Se-ales_y_Sistemas_UCNL/tree/main"> 
     <kbd align="center"><code>Backend / DataAnalist</code></kbd>
+    </a>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=python&perline=25" align="center"/> 
+     <a href="https://github.com/Alejandro1Mendoza/Act2_Se-ales_y_Sistemas_UCNL/tree/main"> <img src="https://skillicons.dev/icons?i=python&perline=25" align="center"/> </a>
   </kbd>
 </p>
 
 <div align="center">
+<a href="https://github.com/Alejandro1Mendoza/Act2_Se-ales_y_Sistemas_UCNL/tree/main">
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alejandro1Mendoza&repo=Act2_Se-ales_y_Sistemas_UCNL)
 
+</a>
 </div>
 </td>
 
