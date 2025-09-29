@@ -74,7 +74,7 @@
 <h2>Simulación y análisis de señales con la transformada de Fourier</h2>
 <p align="center">📡 Procesamiento de señales con Fourier 📊</p>
 <p align="center">Script educativo en Python que muestra procesamiento de señales, cómo transformar una señal del dominio temporal al espectral usando FFT, detectando automáticamente las frecuencias principales.</p>
-<p align="center">Tecnologias a usar</p>
+<p align="center">Tecnologias usadas:</p>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd align="center"><code>Backend / DataAnalist</code></kbd>
