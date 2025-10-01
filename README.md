@@ -23,13 +23,7 @@
 
 </div>
 
-<br clear="both">
 
-<div align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rmvvsejgpo7y76yh25elxfcu5q&count=1&unique=true" alt="Spotify recently played"/>
-  </a>
-</div>
  
 ----
 
@@ -51,7 +45,7 @@
 
 <td width="50%" align="center">
 
-  <a href="https://github.com/Alejandro1Mendoza"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro1Mendoza&theme=calm&show_icons=true&hide_border=true&layout=compact&locale=es"/>
+  <a href="https://github.com/Alejandro1Mendoza"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro1Mendoza&theme=calm&show_icons=true&hide_border=true&layout=compact&locale=en"/>
   
   </td>
 </tr>
@@ -124,14 +118,22 @@ Tecnologias a usar
 
 
 <div align="center">
-<h2>🏆 Trofeos GitHub</h2>
+<h2>🏆 Trofeos GitHub 🏆</h2>
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alejandro1Mendoza)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2>✨ Frase del día</h2>
+<h2>✨ Frase del día ✨</h2>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<h2>🎧 Ultima canción escuchada 🎧</h2>
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rmvvsejgpo7y76yh25elxfcu5q&count=1&unique=true" alt="Spotify recently played"/>
+  </a>
+</div>
 </div>
 
 <!---Pie de Pagina-->
