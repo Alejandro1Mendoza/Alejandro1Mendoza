@@ -122,6 +122,8 @@ Tecnologias a usar
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alejandro1Mendoza)](https://github.com/ryo-ma/github-profile-trophy)
 
+<details>
+  <summary>off-topic <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDI5ZXN5eTEyM3VhMHBmaG80ZHFlOHY0ZnJ0Z2tqeXd1aDBxNW13ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/erX30mQNfhdAvWzjdt/giphy.gif" width="55"> </summary>
 <h2>✨ Frase del día ✨</h2>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -134,12 +136,17 @@ Tecnologias a usar
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rmvvsejgpo7y76yh25elxfcu5q&count=1&unique=true" alt="Spotify recently played"/>
   </a>
 </div>
+
+<h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2duYm5zN24zZmp2ZXB0eWlxZmV4NHRyb21xODRudXNqY2xsZmhmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8FcJ6IXAO2FHUJ5Rnp/giphy.gif" width="35"> Mi racha de Duolingo <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGF6MWpjcXE4bXR6MXAwdTJhdXZ3a2VnYzZ3Z2lpZGk0b3RhaWd3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wH8aFVGkdmOjxBxR3I/giphy.gif" width="45"></h2>
+
+
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=AlejandroM37508)
+
 </div>
 
 <!---Pie de Pagina-->
 <div align="center">
  
 <a href="https://github.com/Alejandro1Mendoza"><img href="https://github.com/Alejandro1Mendoza" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=🐟🐠🐡🐠🐡🐟🐡&section=footer&reversal=false&textBg=false&fontSize=12&animation=scaleIn&fontAlignY=52&descAlignY=84&descAlign=77&descSize=12&desc=🐟🐠🐡🐠🐡🐟🐡&fontAlign=20"/>
-
 
 </div>
