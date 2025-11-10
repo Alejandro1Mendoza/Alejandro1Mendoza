@@ -89,6 +89,33 @@
 </div>
 </td>
 
+<tr>
+<td width="50%" valign="top">
+
+<h2 align="center">Implementación y evaluación de filtros digitales</h2>
+<p align="center">Diseño de filtros digitales para bajos, altos y Bandas</p>
+<p align="center">Script educativo en Python que muestra procesamiento de señales, se analizarán las señales antes y después de aplicar los filtros para evaluar su efectividad.</p>
+<p align="center">Tecnologias usadas:</p>
+<p style="display: inline-block;" align="center">
+  <kbd>
+   <a href="https://github.com/Alejandro1Mendoza/ACT3"> 
+    <kbd align="center"><code>Backend / DataAnalist</code></kbd>
+    </a>
+    <br>
+    <br>
+     <a href="https://github.com/Alejandro1Mendoza/ACT3"> <img src="https://skillicons.dev/icons?i=python&perline=25" align="center"/> </a>
+  </kbd>
+</p>
+
+<div align="center">
+<a href="https://github.com/Alejandro1Mendoza/ACT3">
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alejandro1Mendoza&repo=ACT3)
+
+</a>
+</div>
+</td>
+
 <!---
 <td width="50%" valign="top">
 <h2>Segundo Proyecto</h2>
